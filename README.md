@@ -1,5 +1,5 @@
 # Datasets
-1. City Health Dashboard (Wisconsin-specific) (Total Columns: 23 Total Rows: 1596 Size: 223KB)
+1. City Health Dashboard (Cities in Wisconsin) (Total Columns: 23 Total Rows: 1596 Size: 223KB)
 This dataset reviews several dozen metrics over 5 domains (clinical care, health behaviors, health outcomes, physical environment and social and economic factors) that quantify health, health determinants, and equity at the city level and, where available, census tract level.
 
 2. Map the Meal Gap (Total Columns: 18)
@@ -13,6 +13,9 @@ This data-set contains the name of each establishment, their location and grade.
 
 5. Food Access Research Atlas (Total Columns: 147 Total Rows: 296)
 This data creates maps/show areas showing food access indicators by census tract (selected subpopulations) using different measures and indicators of supermarket accessibility. 
+
+6. City Health Dashboard (Counties in Wisconsin) (Total Columns: 23 Total Rows: 1596 Size: 223KB)
+This dataset reviews several dozen metrics over 5 domains (clinical care, health behaviors, health outcomes, physical environment and social and economic factors) that quantify health, health determinants, and equity at the city level and, where available, census tract level.
 
 
 
