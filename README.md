@@ -1,5 +1,4 @@
-# WI_food_deserts
-Datasets
+# Datasets
 1. City Health Dashboard (Wisconsin-specific) (Total Columns: 23 Total Rows: 1596 Size: 223KB)
 This dataset reviews several dozen metrics over 5 domains (clinical care, health behaviors, health outcomes, physical environment and social and economic factors) that quantify health, health determinants, and equity at the city level and, where available, census tract level.
 
